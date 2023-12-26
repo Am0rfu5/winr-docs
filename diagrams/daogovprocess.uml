@@ -1,0 +1,14 @@
+@startuml
+skinparam linetype ortho
+
+rectangle "Proposal Submission" as Submission
+rectangle "Discussion" as Discussion
+rectangle "Voting" as Voting
+rectangle "Implementation" as Implementation
+
+Submission --> Discussion : Proposals\nReviewed
+Discussion --> Voting : Community\nFeedback
+Voting --> Implementation : Outcome of\nVotes
+Implementation --> Submission : New\nProposals
+
+@enduml

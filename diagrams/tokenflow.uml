@@ -1,0 +1,20 @@
+@startuml
+!define RECTANGLE class
+
+RECTANGLE Participant
+RECTANGLE Validator
+RECTANGLE Developer
+RECTANGLE WinWin_App
+RECTANGLE DAO
+RECTANGLE Crypto_Markets
+
+Participant -right-> WinWin_App : Buys WINR\nTokens
+WinWin_App -down-> DAO : Participate in\nLotteries
+DAO -left-> Validator : Rewards in\nWINR Tokens
+Validator -up-> Crypto_Markets : Exchange WINR\nfor Cryptocurrency
+Crypto_Markets -right-> Participant : Trades Cryptocurrency\nfor WINR Tokens
+Participant -down-> DAO : Voting with\nCAUZ Tokens
+DAO -left-> WinWin_App : Governance\nDecisions
+WinWin_App -up-> Developer : Development\nRewards in WINR
+
+@enduml
