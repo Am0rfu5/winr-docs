@@ -1,4 +1,4 @@
-# WINR Token White Paper
+# WINR Lottery for Charity White Paper
 
 ## Abstract
 
