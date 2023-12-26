@@ -137,3 +137,19 @@ The project adheres to legal and regulatory standards, ensuring a compliant and 
 ## Conclusion
 
 The WINR Token project, with its dual-token model, represents an innovative leap in the realms of blockchain, charity, and DeFi. It invites community engagement, offering a transparent, democratic, and impactful approach to philanthropy and decentralized finance. Join us in shaping the future of charitable giving with blockchain technology.
+
+@startuml
+skinparam linetype ortho
+
+rectangle "Buy Lottery Ticket\nwith WINR Tokens" as BuyTicket
+rectangle "Lottery Draw" as Draw
+rectangle "Allocate Funds to\nCharity" as Charity
+rectangle "Distribute\nWinnings" as Distribute
+rectangle "Reward\nValidators" as Reward
+
+BuyTicket --> Draw
+Draw --> Charity
+Draw --> Distribute
+Draw --> Reward
+
+@enduml
