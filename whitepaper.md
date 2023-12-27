@@ -22,9 +22,9 @@ In the realm of DeFi, blockchain has been a game-changer, democratizing access t
 
 ### Problem Statement: Current System Challenges
 
-Traditional lottery and charity models are often mired in challenges related to transparency, efficiency, and trust. Lotteries are frequently perceived as lacking fairness, and the charitable sector struggles with issues of fund mismanagement and opaque operations. These challenges erode public trust and hinder the effectiveness of philanthropic efforts.
+Traditional lottery and charity models are often mired in challenges related to transparency, efficiency, and trust. Lotteries are frequently perceived as lacking fairness and being prone to <a href="https://en.wikipedia.org/wiki/Lottery_fraud" target="_blank">fraud</a> and <a href="https://en.wikipedia.org/wiki/Lottery_scam" target="_blank">scams</a>, while the charitable sector struggles with issues of <a href="https://www.charitywatch.org/charity-donating-articles/charitywatch-hall-of-shame" target="_blank">fund mismanagement</a> and <a href="https://moneyinc.com/worst-charities-you-shouldnt-be-donating-to/">opaque operations</a>. These challenges erode public trust and hinder the effectiveness of genuine philanthropic efforts.
 
-The DeFi sector, while rapidly evolving and innovative, has largely focused on financial optimization and profit generation, with less emphasis on social responsibility and impact. This creates a gap where the transformative potential of DeFi for societal benefit is not fully realized. There is a pressing need for models that can integrate the financial ingenuity of DeFi with the altruistic ethos of charity, creating systems that are not only profitable but also socially responsible and transparent.
+The DeFi sector, while rapidly evolving and innovative, has largely focused on financial optimization and profit generation, with less emphasis on social responsibility and impact, although that is certainly an underlying motivation and the intended long term result for many projects. This gap in the more obvious and direct societal benefits offer an opportunity where the transformative potential of DeFi can be felt and promoted. There is a pressing need for models that can integrate the financial ingenuity of DeFi with the undercurrent of an altruistic ethos, creating systems that are not only profitable but also socially responsible and transparent.
 
 ### WINR Token Solution: Reinventing Charitable DeFi
 
@@ -52,9 +52,12 @@ The WINR Token project introduces a dual-token ecosystem designed to harmonize t
 
 #### Tokenomics
 
-- **Earning CAUZ Tokens:** Engagement and participation in the DAO are rewarded with CAUZ tokens. This includes activities such as participating in governance votes, contributing to discussions, and proposing or supporting initiatives that benefit the ecosystem.
+- **Earning CAUZ Tokens:** Engagement and participation in the DAO are rewarded with CAUZ tokens. This includes activities such as participating in governance votes, contributing to discussions, and proposing or supporting initiatives that benefit the ecosystem.  Minting and distribution of CAUZ tokens will be based on a formula of overall value added to the project as determined and approved by the DAO.
 
 - **Acquiring WINR Tokens:** Users can obtain WINR Tokens through the exchange of cryptocurrencies, including stablecoins and Ethereum. This process is facilitated within the Winr app, ensuring ease of access and security. The traded cryptocurrencies are strategically utilized by the DAO for purposes such as staking and liquidity provision, thereby adding another layer of financial activity to the ecosystem.
+
+- **Lottery Mechanism:** This mechanism will be upgraded later to work in accordance with the ideas of fair distribution in exchange for work based on "Slicing the Pie" with each amount being approved by the DAO.
+WINR Tokens will be minted and burned by the system .  They are minted in exchange for ETHER.  Each account holding tokens has a chance at winning the next lottery drawing.  Once that lottery is completed the  system pays out to the winning wallet owner or  
 
 - **Sustainable Ecosystem:** The dual-token structure is designed to balance governance with utility. While CAUZ tokens foster a participatory governance model, WINR tokens drive the ecosystem's economic activities. This balance ensures sustainability and continuous growth of the platform.
 
@@ -73,10 +76,15 @@ The Winr app serves as the gateway to the WINR Token ecosystem. It offers a user
 - **Participants:** The core users of the platform, participating in lotteries using WINR Tokens and engaging in DAO activities with CAUZ Tokens.
 - **Validators:** Critical to the platform's integrity, validators ensure the authenticity of transactions and proposals. They are incentivized with WINR Tokens.
 - **Developers:** The technical architects who build and maintain the Winr app and the underlying smart contracts, compensated in WINR Tokens for their contributions.
+- **Administrators:** The administrators of the platform, responsible for managing the DAO and ensuring its smooth functioning.
 
 #### Voting Mechanism
 
 The voting mechanism is a cornerstone of the platform’s governance model. CAUZ token holders can vote on a range of proposals, from selecting charitable causes to strategic decisions about the platform’s future. This process is conducted via smart contracts, ensuring that all votes are transparent, immutable, and securely recorded on the blockchain. This approach not only fosters community involvement but also ensures that the direction of the platform is truly representative of its user base.
+
+## Secondary Effects
+
+One of the secondary effects is to create a list of validated Charitable organizations wallet addresses based on incentives rather than trust.  Although the DAO will be responsible for the final decision, the open validation process will be incentivized to provide new information on charities already approved.  This will create a list of Charitable organizations that have been validated by the community and will be used to distribute the funds to the winning wallet addresses.   
 
 ---
 
@@ -127,8 +135,6 @@ The WINR Token project is committed to full compliance with regulatory standards
 ### Regulatory Compliance
 
 The project adheres to legal and regulatory standards, ensuring a compliant and sustainable platform.
-
----
 
 ## Conclusion
 
