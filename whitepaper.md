@@ -4,7 +4,7 @@
 
 The WINR Project marks a significant stride in leveraging blockchain technology for social good, introducing an innovative dual-token ecosystem with CAUZ and WINR Tokens. This white paper delves into the unique functionalities of these tokens within the Winr app ecosystem, particularly emphasizing their role in enhancing charitable activities and community empowerment.
 
-CAUZ tokens, at the heart of governance within the Decentralized Autonomous Organization (DAO), enable token holders to engage directly in decision-making processes. This includes casting votes on which charitable causes to support, thus democratizing philanthropy and aligning it with the collective values of the community. The active participation fostered by CAUZ tokens ensures that the charitable dimension of the ecosystem remains responsive and reflective of the community's priorities.
+CAUZ tokens, at the heart of governance within the Decentralized Autonomous Organization (DAO), enable token holders to engage directly in decision-making processes. This includes casting votes on which charitable causes are eligible to receive funds as part of the lottery, thus enabling the democratization of philanthropy and aligning it with the collective values of the community. The active participation fostered by CAUZ tokens ensures that the charitable dimension of the ecosystem remains responsive and reflective of the community's priorities.
 
 In contrast, WINR Tokens serve as the utility backbone of the ecosystem, facilitating a range of transactions. These tokens are used to participate in a transparent and equitable lottery system, with a portion of the proceeds channeled towards supporting selected charitable causes. Additionally, WINR Tokens play a pivotal role in rewarding contributors, such as validators, who uphold the integrity and functionality of the ecosystem. This model not only incentivizes participation but also ensures a fair distribution of rewards, further bolstering the platform's sustainability.
 
@@ -32,32 +32,19 @@ The WINR Token project addresses these challenges head-on by proposing a dual-to
 
 - **CAUZ Token for Governance**: The CAUZ token is central to governance within the WINR ecosystem's DAO (Decentralized Autonomous Organization). It empowers token holders to have a direct say in the governance decisions, including the selection of charitable causes and the strategic direction of the ecosystem. This approach ensures that decision-making is democratized and aligned with the community's values and priorities.
 
-- **WINR Token for Utility and Rewards**: The WINR Token serves multiple purposes within the ecosystem. It acts as a utility token that allows participants to engage in a transparent and fair lottery system. The lottery model is designed not just as a game of chance but as a means to contribute to charitable causes. Furthermore, WINR Tokens are used to reward contributors such as validators and developers, incentivizing them to maintain and enhance the ecosystem.
+- **WINR Token for Utility and Rewards**: The WINR Token serves multiple purposes within the ecosystem. It acts as a utility token that allows participants to engage in a transparent and fair lottery system. The lottery model is designed not just as a game of chance but as a means to contribute to charitable causes. Furthermore, WINR Tokens can be used to reward contributors such as validators and developers, incentivizing them to maintain and enhance the ecosystem.
 
 By bridging the gap between DeFi and charity, the WINR Token project creates a sustainable model where financial engagement directly contributes to social good. It represents a paradigm shift in how blockchain technology can be harnessed for philanthropic purposes, ensuring that every transaction within the ecosystem is not just a financial act, but also a step towards making a positive social impact.
 
----
+## Tokenomics
 
-## Project Overview
+!!! Note: see the [FAQ](faq.md) for more details on the tokenomics.
 
-### WINR Token
+- **Earning CAUZ Tokens:** Engagement and participation in the DAO are rewarded with CAUZ tokens. This includes activities such as participating in governance votes, contributing to discussions, and proposing or supporting initiatives that benefit the ecosystem. Minting and distribution of CAUZ tokens will be based on a formula of overall value added to the project as determined and approved by the DAO.
 
-#### Concept
+- **Acquiring WINR Tokens:** Users can obtain WINR Tokens through the exchange of cryptocurrencies. This process is facilitated within the Winr app, ensuring ease of access and security. The traded cryptocurrencies are divided between the two prize pools (Participant and Charity), and the treasury for use in maintaining and promoting the system.
 
-The WINR Token project introduces a dual-token ecosystem designed to harmonize the realms of governance and utility within a decentralized framework. This ecosystem is structured around two distinct tokens: CAUZ and WINR. 
-
-- **CAUZ Tokens:** These are the backbone of the ecosystem's governance structure. Holders of CAUZ tokens have the power to influence key decisions within the Decentralized Autonomous Organization (DAO). This includes voting on proposals for platform improvements, charitable cause selections, and strategic partnerships. The CAUZ token thus embodies the principle of decentralized governance, allowing for a democratic and community-driven approach to decision-making.
-
-- **WINR Tokens:** Serving as the utility token, WINR is at the heart of the platform’s transactional activities. These tokens are used to purchase lottery tickets within the Winr app, offering users a chance to win rewards while supporting charitable causes. Additionally, WINR Tokens are utilized to remunerate contributors, such as validators and developers, who play a crucial role in maintaining and enhancing the platform.
-
-#### Tokenomics
-
-- **Earning CAUZ Tokens:** Engagement and participation in the DAO are rewarded with CAUZ tokens. This includes activities such as participating in governance votes, contributing to discussions, and proposing or supporting initiatives that benefit the ecosystem.  Minting and distribution of CAUZ tokens will be based on a formula of overall value added to the project as determined and approved by the DAO.
-
-- **Acquiring WINR Tokens:** Users can obtain WINR Tokens through the exchange of cryptocurrencies, including stablecoins and Ethereum. This process is facilitated within the Winr app, ensuring ease of access and security. The traded cryptocurrencies are strategically utilized by the DAO for purposes such as staking and liquidity provision, thereby adding another layer of financial activity to the ecosystem.
-
-- **Lottery Mechanism:** This mechanism will be upgraded later to work in accordance with the ideas of fair distribution in exchange for work based on "Slicing the Pie" with each amount being approved by the DAO.
-WINR Tokens will be minted and burned by the system .  They are minted in exchange for ETHER.  Each account holding tokens has a chance at winning the next lottery drawing.  Once that lottery is completed the  system pays out to the winning wallet owner or  
+- **Lottery Mechanism:** The lottery system is designed to be fair and transparent, with a portion of the proceeds going to charitable causes. The lottery is conducted via smart contracts, ensuring that the process is immutable and secure. It is held when the prize pool allocation reaches a predetermined amount or at regular intervals with a mechanism determined by the DAO. WINR Tokens are used to enter the lottery, acting as a ticket when utilized and burned at the time of the drawing when the winners are selected. The lottery proceeds are distributed to the winning accounts upon completion of the lottery. If no winner is selected the prize pool is rolled over to the next lottery.
 
 - **Sustainable Ecosystem:** The dual-token structure is designed to balance governance with utility. While CAUZ tokens foster a participatory governance model, WINR tokens drive the ecosystem's economic activities. This balance ensures sustainability and continuous growth of the platform.
 
@@ -80,7 +67,7 @@ The Winr app serves as the gateway to the WINR Token ecosystem. It offers a user
 
 #### Voting Mechanism
 
-The voting mechanism is a cornerstone of the platform’s governance model. CAUZ token holders can vote on a range of proposals, from selecting charitable causes to strategic decisions about the platform’s future. This process is conducted via smart contracts, ensuring that all votes are transparent, immutable, and securely recorded on the blockchain. This approach not only fosters community involvement but also ensures that the direction of the platform is truly representative of its user base.
+The voting mechanism is a cornerstone of the platform’s governance model. CAUZ token holders can vote on a range of proposals, from nominating and approving charitable causes to strategic decisions about the platform’s future. This process is conducted via smart contracts, ensuring that all votes are transparent, immutable, and securely recorded on the blockchain. This approach not only fosters community involvement but also ensures that the direction of the platform is truly representative of its user base.
 
 ## Secondary Effects
 
